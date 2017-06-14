@@ -40,6 +40,8 @@ import com.king.photo.util.Res;
  */
 public class AlbumActivity extends Activity {
 	//显示手机里的所有图片的列表控件
+
+	//显示手机里的所有图片的列表控件
 	private GridView gridView;
 	//当手机里没有图片时，提示用户没有图片的控件
 	private TextView tv;
